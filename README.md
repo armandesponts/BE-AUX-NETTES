@@ -13,7 +13,7 @@ Our project attempts to answer this following question :
  Within five years in France, how can we reduce our consumption of unic use plastic consumption knowing that industries push people to consume them ? 
 
 
-## The Team Role                
+## Team Member              
 Karen
 Armand
 Amelie
