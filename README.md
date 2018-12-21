@@ -16,7 +16,7 @@ Our project attempts to answer this following question :
 ## Team Member              
 Karen
 Armand
-Amelie
+Aurélie
 François-Illiès
 Delphine 
 Marc
